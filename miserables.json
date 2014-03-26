@@ -79,7 +79,10 @@
     {"name":"Mme.Hucheloup","group":8}
   ],
   "links":[
-    {"source":10,"target":9,"value":20},
+    {"source":30,"target":20,"value":50},
+    {"source":35,"target":25,"value":50},
+    
+    {"source":10,"target":9,"value":50},
     
     {"source":1,"target":0,"value":1},
     {"source":2,"target":0,"value":8},
